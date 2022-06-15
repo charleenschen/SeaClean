@@ -17,6 +17,7 @@
 		BB15FCFC28590E0F009E0EC1 /* seaClean2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB15FCFB28590E0F009E0EC1 /* seaClean2Tests.swift */; };
 		BB15FD0628590E0F009E0EC1 /* seaClean2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB15FD0528590E0F009E0EC1 /* seaClean2UITests.swift */; };
 		BB15FD0828590E0F009E0EC1 /* seaClean2UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB15FD0728590E0F009E0EC1 /* seaClean2UITestsLaunchTests.swift */; };
+		BB15FD15285A2850009E0EC1 /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB15FD14285A2850009E0EC1 /* secondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		BB15FD0128590E0F009E0EC1 /* seaClean2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = seaClean2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BB15FD0528590E0F009E0EC1 /* seaClean2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = seaClean2UITests.swift; sourceTree = "<group>"; };
 		BB15FD0728590E0F009E0EC1 /* seaClean2UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = seaClean2UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BB15FD14285A2850009E0EC1 /* secondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				BB15FCE328590E0D009E0EC1 /* SceneDelegate.swift */,
 				BB15FCE528590E0D009E0EC1 /* ViewController.swift */,
 				BB15FCE728590E0D009E0EC1 /* Main.storyboard */,
+				BB15FD14285A2850009E0EC1 /* secondViewController.swift */,
 				BB15FCED28590E0F009E0EC1 /* Assets.xcassets */,
 				BB15FCEF28590E0F009E0EC1 /* LaunchScreen.storyboard */,
 				BB15FCF228590E0F009E0EC1 /* Info.plist */,
@@ -264,6 +267,7 @@
 				BB15FCEC28590E0D009E0EC1 /* seaClean2.xcdatamodeld in Sources */,
 				BB15FCE628590E0D009E0EC1 /* ViewController.swift in Sources */,
 				BB15FCE228590E0D009E0EC1 /* AppDelegate.swift in Sources */,
+				BB15FD15285A2850009E0EC1 /* secondViewController.swift in Sources */,
 				BB15FCE428590E0D009E0EC1 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
