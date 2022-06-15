@@ -18,6 +18,7 @@
 		BB15FD0628590E0F009E0EC1 /* seaClean2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB15FD0528590E0F009E0EC1 /* seaClean2UITests.swift */; };
 		BB15FD0828590E0F009E0EC1 /* seaClean2UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB15FD0728590E0F009E0EC1 /* seaClean2UITestsLaunchTests.swift */; };
 		BB15FD15285A2850009E0EC1 /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB15FD14285A2850009E0EC1 /* secondViewController.swift */; };
+		BB15FD17285A5F27009E0EC1 /* gameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB15FD16285A5F26009E0EC1 /* gameViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		BB15FD0528590E0F009E0EC1 /* seaClean2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = seaClean2UITests.swift; sourceTree = "<group>"; };
 		BB15FD0728590E0F009E0EC1 /* seaClean2UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = seaClean2UITestsLaunchTests.swift; sourceTree = "<group>"; };
 		BB15FD14285A2850009E0EC1 /* secondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondViewController.swift; sourceTree = "<group>"; };
+		BB15FD16285A5F26009E0EC1 /* gameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gameViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				BB15FCE328590E0D009E0EC1 /* SceneDelegate.swift */,
 				BB15FCE528590E0D009E0EC1 /* ViewController.swift */,
 				BB15FCE728590E0D009E0EC1 /* Main.storyboard */,
+				BB15FD16285A5F26009E0EC1 /* gameViewController.swift */,
 				BB15FD14285A2850009E0EC1 /* secondViewController.swift */,
 				BB15FCED28590E0F009E0EC1 /* Assets.xcassets */,
 				BB15FCEF28590E0F009E0EC1 /* LaunchScreen.storyboard */,
@@ -264,6 +267,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BB15FD17285A5F27009E0EC1 /* gameViewController.swift in Sources */,
 				BB15FCEC28590E0D009E0EC1 /* seaClean2.xcdatamodeld in Sources */,
 				BB15FCE628590E0D009E0EC1 /* ViewController.swift in Sources */,
 				BB15FCE228590E0D009E0EC1 /* AppDelegate.swift in Sources */,
@@ -447,6 +451,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = seaClean2/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = SeaClean;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -474,6 +479,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = seaClean2/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = SeaClean;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
