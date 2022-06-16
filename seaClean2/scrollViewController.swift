@@ -1,19 +1,18 @@
 //
-//  secondViewController.swift
+//  scrollViewController.swift
 //  seaClean2
 //
-//  Created by charleen chen on 6/15/22.
+//  Created by Jennie Pham on 6/16/22.
 //
 
 import UIKit
 
-class secondViewController: UIViewController {
+class scrollViewController: UIViewController {
 
-  
     @IBOutlet weak var label: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
-        label.text = "THIS IS MY TEXT THIS IS MY TEXT THIS IS MY TEXT THIS IS MY TEXT THIS IS MY TEXT THIS IS MY TEXT"
+        label.text = "MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW "
         // Do any additional setup after loading the view.
     }
     
