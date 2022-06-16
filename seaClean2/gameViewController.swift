@@ -11,8 +11,8 @@ class gameViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        //btnTest.setImage(UIImage(named: "seaCleanIcon")?.withRenderingMode(.alwaysOriginal), forState: .Normal)
-
+       
+        let background = UIImage(named: "background")
         // Do any additional setup after loading the view.
     }
     
