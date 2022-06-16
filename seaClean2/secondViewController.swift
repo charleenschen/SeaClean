@@ -9,10 +9,11 @@ import UIKit
 
 class secondViewController: UIViewController {
 
+  
     @IBOutlet weak var label: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
-        label.text = "THIS IS MY TEXT THIS IS MY TEXT THIS IS MY TEXT THIS IS MY TEXT THIS IS MY TEXT THIS IS MY TEXT "
+        label.text = "THIS IS MY TEXT THIS IS MY TEXT THIS IS MY TEXT THIS IS MY TEXT THIS IS MY TEXT THIS IS MY TEXT"
         // Do any additional setup after loading the view.
     }
     

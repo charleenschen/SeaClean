@@ -9,23 +9,21 @@ import UIKit
 
 class gameViewController: UIViewController {
 
+    @IBOutlet weak var btnCup: UIButton!
+    @IBOutlet weak var btnBottle: UIButton!
+    @IBOutlet weak var btnTurtle: UIButton!
+    @IBOutlet weak var btnYellowFish: UIButton!
+    @IBOutlet weak var btnWhale: UIButton!
+    @IBOutlet weak var btnOrangeFish: UIButton!
+    @IBOutlet weak var btnRings: UIButton!
+    @IBOutlet weak var btnThankYouBag: UIButton!
+    @IBOutlet weak var btnSeaweed: UIButton!
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-       
-        let background = UIImage(named: "background")
-        // Do any additional setup after loading the view.
     }
-    
-    @IBOutlet weak var btnTest: UIButton!
-    
-    /*
-    // MARK: - Navigation
 
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destination.
-        // Pass the selected object to the new view controller.
-    }
-    */
+    
 
 }
