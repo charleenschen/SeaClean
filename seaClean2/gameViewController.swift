@@ -18,12 +18,20 @@ class gameViewController: UIViewController {
     @IBOutlet weak var btnRings: UIButton!
     @IBOutlet weak var btnThankYouBag: UIButton!
     @IBOutlet weak var btnSeaweed: UIButton!
-    
+    @IBAction func btnBottleIsClicked(_ sender: UIButton) {
+        btnBottle.isHidden = true;
+    }
+    @IBAction func btnCupClicked(_ sender: UIButton) {
+        btnCup.isHidden = true;
+    }
+    @IBAction func btnRingsClicked(_ sender: UIButton) {
+        btnRings.isHidden = true;
+    }
+    @IBAction func btnThankYouBagClicked(_ sender: UIButton) {
+        btnThankYouBag.isHidden = true;
+    }
     
     override func viewDidLoad() {
         super.viewDidLoad()
     }
-
-    
-
 }

@@ -18,6 +18,16 @@
 		BB15FD0628590E0F009E0EC1 /* seaClean2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB15FD0528590E0F009E0EC1 /* seaClean2UITests.swift */; };
 		BB15FD0828590E0F009E0EC1 /* seaClean2UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB15FD0728590E0F009E0EC1 /* seaClean2UITestsLaunchTests.swift */; };
 		BB15FD17285A5F27009E0EC1 /* gameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB15FD16285A5F26009E0EC1 /* gameViewController.swift */; };
+		BB6C6BD9285BD0DD0029FD06 /* firstQuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB6C6BD8285BD0DD0029FD06 /* firstQuestionViewController.swift */; };
+		BB6C6BDB285BD3910029FD06 /* secondQuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB6C6BDA285BD3910029FD06 /* secondQuestionViewController.swift */; };
+		BB6C6BDF285BD5090029FD06 /* thirdQuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB6C6BDE285BD5090029FD06 /* thirdQuestionViewController.swift */; };
+		BB6C6BE1285BD6420029FD06 /* fourthQuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB6C6BE0285BD6420029FD06 /* fourthQuestionViewController.swift */; };
+		BB6C6BE3285BD87D0029FD06 /* fifthQuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB6C6BE2285BD87D0029FD06 /* fifthQuestionViewController.swift */; };
+		BB6C6BE5285BDB610029FD06 /* sixthQuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB6C6BE4285BDB610029FD06 /* sixthQuestionViewController.swift */; };
+		BB6C6BE7285BDC570029FD06 /* seventhQuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB6C6BE6285BDC570029FD06 /* seventhQuestionViewController.swift */; };
+		BB6C6BE9285BDD110029FD06 /* eighthQuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB6C6BE8285BDD110029FD06 /* eighthQuestionViewController.swift */; };
+		BB6C6BEB285BDDE60029FD06 /* ninthQuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB6C6BEA285BDDE60029FD06 /* ninthQuestionViewController.swift */; };
+		BB6C6BED285BDE800029FD06 /* tenthQuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB6C6BEC285BDE800029FD06 /* tenthQuestionViewController.swift */; };
 		C95140EA285B81BA00E3641F /* scrollViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C95140E9285B81BA00E3641F /* scrollViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -54,6 +64,16 @@
 		BB15FD0528590E0F009E0EC1 /* seaClean2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = seaClean2UITests.swift; sourceTree = "<group>"; };
 		BB15FD0728590E0F009E0EC1 /* seaClean2UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = seaClean2UITestsLaunchTests.swift; sourceTree = "<group>"; };
 		BB15FD16285A5F26009E0EC1 /* gameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gameViewController.swift; sourceTree = "<group>"; };
+		BB6C6BD8285BD0DD0029FD06 /* firstQuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = firstQuestionViewController.swift; sourceTree = "<group>"; };
+		BB6C6BDA285BD3910029FD06 /* secondQuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondQuestionViewController.swift; sourceTree = "<group>"; };
+		BB6C6BDE285BD5090029FD06 /* thirdQuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = thirdQuestionViewController.swift; sourceTree = "<group>"; };
+		BB6C6BE0285BD6420029FD06 /* fourthQuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fourthQuestionViewController.swift; sourceTree = "<group>"; };
+		BB6C6BE2285BD87D0029FD06 /* fifthQuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fifthQuestionViewController.swift; sourceTree = "<group>"; };
+		BB6C6BE4285BDB610029FD06 /* sixthQuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sixthQuestionViewController.swift; sourceTree = "<group>"; };
+		BB6C6BE6285BDC570029FD06 /* seventhQuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = seventhQuestionViewController.swift; sourceTree = "<group>"; };
+		BB6C6BE8285BDD110029FD06 /* eighthQuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = eighthQuestionViewController.swift; sourceTree = "<group>"; };
+		BB6C6BEA285BDDE60029FD06 /* ninthQuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ninthQuestionViewController.swift; sourceTree = "<group>"; };
+		BB6C6BEC285BDE800029FD06 /* tenthQuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tenthQuestionViewController.swift; sourceTree = "<group>"; };
 		C95140E9285B81BA00E3641F /* scrollViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = scrollViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -109,12 +129,22 @@
 				BB15FCE328590E0D009E0EC1 /* SceneDelegate.swift */,
 				BB15FCE528590E0D009E0EC1 /* ViewController.swift */,
 				BB15FCE728590E0D009E0EC1 /* Main.storyboard */,
+				BB6C6BEC285BDE800029FD06 /* tenthQuestionViewController.swift */,
+				BB6C6BE8285BDD110029FD06 /* eighthQuestionViewController.swift */,
+				BB6C6BEA285BDDE60029FD06 /* ninthQuestionViewController.swift */,
 				BB15FD16285A5F26009E0EC1 /* gameViewController.swift */,
+				BB6C6BD8285BD0DD0029FD06 /* firstQuestionViewController.swift */,
+				BB6C6BDA285BD3910029FD06 /* secondQuestionViewController.swift */,
+				BB6C6BDE285BD5090029FD06 /* thirdQuestionViewController.swift */,
+				BB6C6BE0285BD6420029FD06 /* fourthQuestionViewController.swift */,
+				BB6C6BE2285BD87D0029FD06 /* fifthQuestionViewController.swift */,
+				BB6C6BE4285BDB610029FD06 /* sixthQuestionViewController.swift */,
+				BB6C6BE6285BDC570029FD06 /* seventhQuestionViewController.swift */,
+				C95140E9285B81BA00E3641F /* scrollViewController.swift */,
 				BB15FCED28590E0F009E0EC1 /* Assets.xcassets */,
 				BB15FCEF28590E0F009E0EC1 /* LaunchScreen.storyboard */,
 				BB15FCF228590E0F009E0EC1 /* Info.plist */,
 				BB15FCEA28590E0D009E0EC1 /* seaClean2.xcdatamodeld */,
-				C95140E9285B81BA00E3641F /* scrollViewController.swift */,
 			);
 			path = seaClean2;
 			sourceTree = "<group>";
@@ -267,12 +297,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BB6C6BE7285BDC570029FD06 /* seventhQuestionViewController.swift in Sources */,
+				BB6C6BDB285BD3910029FD06 /* secondQuestionViewController.swift in Sources */,
+				BB6C6BED285BDE800029FD06 /* tenthQuestionViewController.swift in Sources */,
+				BB6C6BE3285BD87D0029FD06 /* fifthQuestionViewController.swift in Sources */,
 				BB15FD17285A5F27009E0EC1 /* gameViewController.swift in Sources */,
 				BB15FCEC28590E0D009E0EC1 /* seaClean2.xcdatamodeld in Sources */,
 				BB15FCE628590E0D009E0EC1 /* ViewController.swift in Sources */,
+				BB6C6BEB285BDDE60029FD06 /* ninthQuestionViewController.swift in Sources */,
+				BB6C6BE5285BDB610029FD06 /* sixthQuestionViewController.swift in Sources */,
+				BB6C6BE1285BD6420029FD06 /* fourthQuestionViewController.swift in Sources */,
 				BB15FCE228590E0D009E0EC1 /* AppDelegate.swift in Sources */,
+				BB6C6BE9285BDD110029FD06 /* eighthQuestionViewController.swift in Sources */,
 				BB15FCE428590E0D009E0EC1 /* SceneDelegate.swift in Sources */,
+				BB6C6BDF285BD5090029FD06 /* thirdQuestionViewController.swift in Sources */,
 				C95140EA285B81BA00E3641F /* scrollViewController.swift in Sources */,
+				BB6C6BD9285BD0DD0029FD06 /* firstQuestionViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
