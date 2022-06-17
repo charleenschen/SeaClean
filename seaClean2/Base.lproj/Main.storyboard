@@ -12,7 +12,7 @@
         <!--View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="seaClean2" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="home" id="BYZ-38-t0r" customClass="ViewController" customModule="seaClean2" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -128,7 +128,7 @@
         <!--Game View Controller-->
         <scene sceneID="jSz-R5-llc">
             <objects>
-                <viewController id="nMY-iJ-kCR" customClass="gameViewController" customModule="seaClean2" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="Game View Controller" id="nMY-iJ-kCR" customClass="gameViewController" customModule="seaClean2" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="1Sw-8A-ggF">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -329,7 +329,7 @@
                                     </attributedString>
                                 </buttonConfiguration>
                                 <connections>
-                                    <segue destination="BYZ-38-t0r" kind="presentation" animates="NO" modalPresentationStyle="fullScreen" id="VsH-aa-SMc"/>
+                                    <segue destination="BYZ-38-t0r" kind="presentation" animates="NO" modalPresentationStyle="fullScreen" id="yU6-7M-tkX"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aOA-UP-3pe">
@@ -3046,8 +3046,8 @@
     <inferredMetricsTieBreakers>
         <segue reference="bzu-oR-BwN"/>
         <segue reference="9HG-Ri-L9N"/>
-        <segue reference="4vS-Dq-31X"/>
-        <segue reference="O2h-aL-fEJ"/>
+        <segue reference="0tW-S8-cBf"/>
+        <segue reference="yU6-7M-tkX"/>
     </inferredMetricsTieBreakers>
     <resources>
         <image name="background" width="1184" height="1578"/>
